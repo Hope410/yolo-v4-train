@@ -1,0 +1,1 @@
+wget https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights
